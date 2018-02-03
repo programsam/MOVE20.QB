@@ -27,13 +27,20 @@ along with a first attempt at coding it up.
 
 ## Process
 
-I decided to go line by line and type the whole thing back in.  I did not use
-OCR, and I also did not make any corrections. It was only 12 pages of type
-12 font, and has only taken me a few hours of typing to get the whole thing
-inputted. It's in a file in this repository called [move20.qb].  I also want
-to note that I did not change bugs that I found, nor did I change any grammar
-mistakes in the prompts, so it definitely still seems like a program that
-a young kid would write.
+I used a very specific process for making [the recreated program](move20.qb),
+and I've taken some notes here:
+
+ - I did not use OCR. I typed it up line for line.
+ - I copied/pasted. Guilty as charged. I tried to be very careful about making
+   sure each difference in the printed up copy was represented.
+ - I did not change any bugs that I found, and I saw at least two.
+ - I did not change any of the poor grammar in the prompts.  So those are
+   definitely preserved.
+ - The eighth page got jammed in my scanner when I was trying to create the PDF
+   and part of it ripped off. It's during the section of code that controls the
+   walking, however, and the BASIC line number lines up with the command to walk
+   a specific direction, so that's what I have put in there even though I am not
+   100% sure that's what was really on the paper at that point.
 
 ## Running
 
