@@ -168,7 +168,8 @@ IF DO$ = "2" THEN 52
 IF DO$ = "3" THEN 53
 IF DO$ = "4" THEN 54
 IF DO$ = "5" THEN 10
-IF DO$ = "6" THEN EndGOTO 50
+IF DO$ = "6" THEN END
+GOTO 50
 51 COLOR 3
 CLS
 PRINT "                                  THE COMMANDS"
